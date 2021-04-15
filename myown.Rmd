@@ -1,0 +1,7 @@
+---
+title: "My own RMarkdown file"
+author: "Claudia van der Zijden"
+date: "15-4-2021"
+output: html_document
+---
+This is my first RMarkdown file tracked by Git!!
